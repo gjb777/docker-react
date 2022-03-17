@@ -8,7 +8,13 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p>
+          </p><br></br>
+        <p>
+          In fact, this file has been edited already!
+          </p><br></br>
+        <p>Thrice in fact. And saved godammit.  So it should work...
+          </p><br></br>
+        <p>And here's another line to test dynamic updating</p>  
         <a
           className="App-link"
           href="https://reactjs.org"
